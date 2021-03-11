@@ -86,5 +86,4 @@ func main() {
 	fmt.Printf("dataSlice类型：%T,%#v \n",dataSlice,dataSlice)
 	fmt.Printf("interfaceSlice类型：%T,%#v \n",interfaceSlice,interfaceSlice)
 	fmt.Println(reflect.TypeOf(dataSlice),reflect.TypeOf(interfaceSlice))
-
 }
