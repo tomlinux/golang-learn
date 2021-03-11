@@ -5,8 +5,7 @@
 1. 开发工具：goland , sourcetree,freemind,sourcetree 
 2. 设置外部对比工具
 ![wZaifs16149252601614925260590yOL3vL](https://ops-1254326415.file.myqcloud.com/uPic/wZaifs16149252601614925260590yOL3vL.png)
-3. 再见 FTP/SFTP！是时候拥抱下一代文件传输利器 Croc 了！https://github.com/schollz/croc   
-
+3. 再见 FTP/SFTP！是时候拥抱下一代文件传输利器 Croc 了！https://github.com/schollz/croc   **(big filename translate have bug)**
 
 
 # 参考说明：
