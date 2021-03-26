@@ -9,6 +9,11 @@
 4. mac 工具设置 karabiner-Elements 
 ![SMYKV716155359891615535989411aDGlTP](https://ops-1254326415.file.myqcloud.com/uPic/SMYKV716155359891615535989411aDGlTP.png)
 ![3X4zlc16155360001615536000188bWfCS9](https://ops-1254326415.file.myqcloud.com/uPic/3X4zlc16155360001615536000188bWfCS9.png)
+   
+5.goland 激活地址是 http://idea.youbbs.org
+> 激活码获取地址: vrg123.com 网站密钥：6575
+![6oQQ2L16149159721614915972983Af8c9b](https://ops-1254326415.file.myqcloud.com/uPic/6oQQ2L16149159721614915972983Af8c9b.png)
+
 
 
 # 参考说明：

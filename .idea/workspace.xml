@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d0eeb32-6cef-43a7-b5e7-8d93bd6ac1a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/a.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web/02.index.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test01.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/01.工具使用说明.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/01.工具使用说明.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/web/01.index.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/web/01.index.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +48,7 @@
       <recent name="$PROJECT_DIR$/test" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build 01.index.go">
+  <component name="RunManager" selected="Go Build.go build test01.go">
     <configuration name="go build 01.index.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="FirstProject" />
       <working_directory value="$PROJECT_DIR$" />
@@ -66,8 +69,19 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build test01.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="FirstProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/test/test01.go" />
+      <package value="FirstProject" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build test01.go" />
         <item itemvalue="Go Build.go build 01.index.go" />
         <item itemvalue="Go Build.go build array.go" />
       </list>
