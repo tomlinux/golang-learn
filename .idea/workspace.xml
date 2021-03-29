@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d0eeb32-6cef-43a7-b5e7-8d93bd6ac1a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/web/02.index.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test01.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/01.工具使用说明.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/01.工具使用说明.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/web/01.index.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/web/01.index.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test01.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/test01.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,5 +98,16 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file:///usr/local/go/src/net/http/server.go</url>
+          <line>2135</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
