@@ -55,6 +55,8 @@ func (d *Dog)bite()  {
 
 func  demo23()  {
 	d := Dog{"毛毛",1}
+	//d.name = "d2222ds"
+	//d.sex = 1
 	fmt.Printf("d的类型%T，value：%#v", d, d)
 
 }

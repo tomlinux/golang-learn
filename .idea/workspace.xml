@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d0eeb32-6cef-43a7-b5e7-8d93bd6ac1a1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/example/type-convert.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test02.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example/class/001.encapsulation.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/example/class/001.encapsulation.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/test01.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/test01.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,13 +42,14 @@
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/test" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build test01.go">
+  <component name="RunManager" selected="Go Build.go build type-convert.go">
     <configuration name="go build 01.index.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="FirstProject" />
       <working_directory value="$PROJECT_DIR$" />
@@ -75,8 +80,18 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build type-convert.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="FirstProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/example/type-convert.go" />
+      <package value="FirstProject" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build type-convert.go" />
         <item itemvalue="Go Build.go build test01.go" />
         <item itemvalue="Go Build.go build 01.index.go" />
         <item itemvalue="Go Build.go build array.go" />
@@ -104,8 +119,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file:///usr/local/go/src/net/http/server.go</url>
-          <line>2135</line>
+          <line>2274</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/example/class/001.encapsulation.go</url>
+          <line>91</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

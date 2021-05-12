@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"net/http"
+	"net/url"
 )
 
 type Hander interface {
@@ -25,13 +26,14 @@ func main() {
 		"Accept-Language": {"en-us"},
 		"Foo":             {"Bar", "two"},
 	}
-
 	fmt.Println(Header)
 
 	tester := map[string]int{"key01": 2}
 	fmt.Println(tester["key01"])
 
-	http.Handle
+	//http.Handle
+	//http.FileServer()
+	fmt.Println(url.URL{})
 
 }
 
