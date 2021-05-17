@@ -13,9 +13,12 @@
 5.goland 激活地址是 http://idea.youbbs.org
 > 激活码获取地址: vrg123.com 网站密钥：4565
 ![6oQQ2L16149159721614915972983Af8c9b](https://ops-1254326415.file.myqcloud.com/uPic/6oQQ2L16149159721614915972983Af8c9b.png)
-
-
-
+> goland 破解文件地址是： [2021年激活方案汇总.zip](./download/2021年激活方案汇总.zip)
+使用说明： [https://shimo.im/docs/8VctHPt6CPhtjDHX/read](https://shimo.im/docs/8VctHPt6CPhtjDHX/read)
+1. 首先，下载无限重置30天试用期补丁：补丁的网盘链接在文章最后，小伙伴们自行获取即可~**补丁的网盘链接在文章最后，小伙伴们自行获取即可~**补丁的网盘链接在文章最后，小伙伴们自行获取即可~**下载完成后，将 zip 插件包拖入 IDE 界面中。如果无法拖动安装，你可以在Settings/Preferences... -> Plugins 里手动安装插件（Install Plugin From Disk...）：
+![zBJYbd16212227581621222758539HlNb68](https://ops-1254326415.file.myqcloud.com/uPic/zBJYbd16212227581621222758539HlNb68.png)
+![qCPK9116212227951621222795539hWdsba](https://ops-1254326415.file.myqcloud.com/uPic/qCPK9116212227951621222795539hWdsba.png)
+   
 # 参考说明：
 * 购买订阅9.9元地址：https://blog.csdn.net/u010986776/category_8000832.html?utm_source=&spm=1001.2101.3001.4235
 * 视频地址是：https://www.bilibili.com/video/BV1G4411r7Da?p=17
