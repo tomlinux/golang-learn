@@ -19,6 +19,11 @@
 ![zBJYbd16212227581621222758539HlNb68](https://ops-1254326415.file.myqcloud.com/uPic/zBJYbd16212227581621222758539HlNb68.png)
 ![qCPK9116212227951621222795539hWdsba](https://ops-1254326415.file.myqcloud.com/uPic/qCPK9116212227951621222795539hWdsba.png)
    
+6. goland 环境变量的设置
+```
+GOPROXY=https://goproxy.cn;GO111MODULE=on
+```
+![u1v3xx16212441601621244160487hButXG](https://ops-1254326415.file.myqcloud.com/uPic/u1v3xx16212441601621244160487hButXG.png)
 # 参考说明：
 * 购买订阅9.9元地址：https://blog.csdn.net/u010986776/category_8000832.html?utm_source=&spm=1001.2101.3001.4235
 * 视频地址是：https://www.bilibili.com/video/BV1G4411r7Da?p=17
