@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d0eeb32-6cef-43a7-b5e7-8d93bd6ac1a1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/doc/10.freemind思维导图.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test3.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -48,7 +50,7 @@
       <recent name="$PROJECT_DIR$/test" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build type-convert.go">
+  <component name="RunManager" selected="Go Build.go build test3.go">
     <configuration name="go build 01.index.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="FirstProject" />
       <working_directory value="$PROJECT_DIR$" />
@@ -59,13 +61,12 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build array.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build FirstProject/test" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="FirstProject" />
       <working_directory value="$PROJECT_DIR$" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/example/array.go" />
-      <package value="FirstProject" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/test/test3.go" />
+      <package value="FirstProject/test" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -75,6 +76,15 @@
       <go_parameters value="-i" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/test/test01.go" />
+      <package value="FirstProject" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build test3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="FirstProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/test/test3.go" />
       <package value="FirstProject" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
@@ -90,10 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build test3.go" />
+        <item itemvalue="Go Build.go build FirstProject/test" />
         <item itemvalue="Go Build.go build type-convert.go" />
         <item itemvalue="Go Build.go build test01.go" />
         <item itemvalue="Go Build.go build 01.index.go" />
-        <item itemvalue="Go Build.go build array.go" />
       </list>
     </recent_temporary>
   </component>

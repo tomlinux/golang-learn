@@ -24,6 +24,10 @@
 GOPROXY=https://goproxy.cn;GO111MODULE=on
 ```
 ![u1v3xx16212441601621244160487hButXG](https://ops-1254326415.file.myqcloud.com/uPic/u1v3xx16212441601621244160487hButXG.png)
+
+7. 项目编译设置 
+![6vXftN16212450511621245051461kg7P6y](https://ops-1254326415.file.myqcloud.com/uPic/6vXftN16212450511621245051461kg7P6y.png)
+
 # 参考说明：
 * 购买订阅9.9元地址：https://blog.csdn.net/u010986776/category_8000832.html?utm_source=&spm=1001.2101.3001.4235
 * 视频地址是：https://www.bilibili.com/video/BV1G4411r7Da?p=17
